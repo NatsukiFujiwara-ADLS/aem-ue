@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p238102-e2391158.adobeaemcloud.com/bin/franklin.delivery/NatsukiFujiwara-ADLS/aem-ue/main"
+    url: "https://author-p237904-e2391016.adobeaemcloud.com/bin/franklin.delivery/NatsukiFujiwara-ADLS/aem-ue/main"
     type: "markup"
     suffix: ".html"
