@@ -10,7 +10,7 @@
 // node clearCache.js cache /specific/path
 // node clearCache.js reindex /docs/*
 
-require('dotenv').config(); 
+require('dotenv').config();
 const axios = require('axios');
 
 const ORG = 'natsukifujiwara-adls';
