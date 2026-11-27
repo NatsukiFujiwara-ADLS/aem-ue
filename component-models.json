@@ -245,13 +245,6 @@
         ]
       },
       {
-        "component": "richtext",
-        "name": "textContent_text",
-        "label": "Text",
-        "valueType": "string",
-        "required": true
-      },
-      {
         "component": "aem-content",
         "name": "textContent_cta",
         "label": "CTA",
@@ -278,6 +271,13 @@
         "valueType": "string",
         "name": "imageAlt",
         "label": "Image alt text",
+        "required": true
+      },
+      {
+        "component": "richtext",
+        "name": "textContent_text",
+        "label": "Text",
+        "valueType": "string",
         "required": true
       }
     ]
